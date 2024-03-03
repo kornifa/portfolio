@@ -1,2 +1,2 @@
 # portfolio
-personal portfolio (React Js)
+personal portfolio Responsive (HTML-CSS) et Bootstrap
