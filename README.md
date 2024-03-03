@@ -1,2 +1,2 @@
 # portfolio
-personal portfolio Responsive (HTML-CSS) et Bootstrap
+personal portfolio Responsive (HTML-CSS-js)
